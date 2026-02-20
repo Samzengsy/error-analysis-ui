@@ -1,0 +1,4 @@
+nicegui>=1.4
+pandas>=2.0
+numpy>=1.23
+Pillow>=9.0
